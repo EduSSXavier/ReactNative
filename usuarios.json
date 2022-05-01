@@ -1,0 +1,11 @@
+
+{
+  "titulo": "Banco de Dados de Usuários",
+  "descricao": "Dados remotos para testes de autenticação",
+  "usuarios": [
+    { "id": "1", "usuario": "professor", "senha":"prof"},
+    { "id": "2", "usuario": "aluno", "senha":"alu"},
+    { "id": "3", "usuario": "monitor", "senha":"moni"},
+    { "id": "4", "usuario": "visitante", "senha":"visi"},
+  ]
+}

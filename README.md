@@ -1,4 +1,4 @@
-# Infinity-RN
+# ReactNative
 Arquivos auxiliares do professor Eduardo Xavier
 para cursos de React Native.
 

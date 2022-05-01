@@ -1,0 +1,13 @@
+{
+  "titulo": "Banco de Dados Star Trek",
+  "descricao": "Dados remotos para testes de acesso contendo informações de 'Jornada nas Estrelas'",
+  "naves": [
+    { "id": "1", "nave": "Enterprise", "seriado":"TOS", "capitao":"James Kirk"},
+    { "id": "2", "nave": "Enterprise", "seriado":"TNG", "capitao":"Jean Luc Picard"},
+    { "id": "3", "nave": "Voyager", "seriado":"VOY", "capitao":"Kathryn Janeway"},
+    { "id": "4", "nave": "Enterprise", "seriado":"ENT", "capitao":"Jonathan Archer"},
+    { "id": "5", "nave": "Deep Space 9", "seriado":"DS9", "capitao":"Benjamin Sisko"},
+    { "id": "6", "nave": "Discovery", "seriado":"DIS", "capitao":"Michael Burnham"},
+    { "id": "7", "nave": "Enterprise", "seriado":"SNW", "capitao":"Christopher Pike"},
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "estados": [
+       {
+         "id": 1,
+         "sigla":"BA",
+         "nome": "Bahia",
+         "Capital": "Salvador" 
+       },
+       {
+         "id": 2,
+         "sigla":"MG",
+         "nome": "Minas Gerais",
+         "Capital": "Belo Horizonte" 
+       },
+       {  
+         "id": 3,
+         "sigla":"AM",
+         "nome": "Amazonas",
+         "Capital": "Manaus" 
+       },
+       {  
+         "id": 4,
+         "sigla":"SP",
+         "nome": "São Paulo",
+         "Capital": "São Paulo" 
+       }
+ ]
+}
